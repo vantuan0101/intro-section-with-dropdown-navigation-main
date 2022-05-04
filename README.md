@@ -28,7 +28,7 @@ https://vantuan0101.github.io/intro-section-with-dropdown-navigation-main/
 
 Facebook -[Văn Tuấn] https://www.facebook.com/vantuan0101
 
-Frontend Mentor - https://www.frontendmentor.io/profile/Drougnov
+Frontend Mentor - https://www.frontendmentor.io/profile/vantuan0101
 
 ### Any suggestion
 
