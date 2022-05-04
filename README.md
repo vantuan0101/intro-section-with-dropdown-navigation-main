@@ -13,8 +13,8 @@ It's a solution of a junior challange called "Intro Section With Dropdown Naviga
 Here is the link of the challange-
 https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5
 
-Here is the solution site url-
-https://drougnov.github.io/intro-section-with-dropdown-navigation-master/
+Here is Demo -
+https://vantuan0101.github.io/intro-section-with-dropdown-navigation-main/
 
 ## Built with
 
